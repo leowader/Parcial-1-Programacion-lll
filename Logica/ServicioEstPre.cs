@@ -38,7 +38,7 @@ namespace Logica
             {
                 foreach (var item in miruta.Leer())
                 {
-                    ListaPre.RemoveAll(x => item.TipoEstudiante == "POST");
+                    ListaPre.RemoveAll(x => item.TipoEstudiante == "PRE");
                 }
                 return true;
             }

@@ -22,7 +22,7 @@ namespace Presentacion
                 Console.WriteLine("3. PROMEDIO POR PROGRAMA");
                 Console.WriteLine("4. ESTUDIANTES DESTACADOS");
                 Console.WriteLine("5. SALIR");
-                Console.WriteLine("ESCOJA UNA OBCION DEL MENU: ");
+                Console.WriteLine("ESCOJA UNA OPCION DEL MENU: ");
                 op = int.Parse(Console.ReadLine());
                 switch (op)
                 {
@@ -54,7 +54,7 @@ namespace Presentacion
                 Console.WriteLine("1. DESTACADOS POSGRADOS");
                 Console.WriteLine("2. DESTACADOS PREGRADOS");
                 Console.WriteLine("3. VOLVER");
-                Console.WriteLine("ESCOJA UNA OBCION DEL MENU: ");
+                Console.WriteLine("ESCOJA UNA OPCION DEL MENU: ");
                 op = int.Parse(Console.ReadLine());
                 switch (op)
                 {
@@ -79,7 +79,7 @@ namespace Presentacion
                 Console.WriteLine("1. PROMEDIO POSGRADOS");
                 Console.WriteLine("2. PROMEDIO PREGRADOS");
                 Console.WriteLine("3. VOLVER");
-                Console.WriteLine("ESCOJA UNA OBCION DEL MENU: ");
+                Console.WriteLine("ESCOJA UNA OPCION DEL MENU: ");
                 op = int.Parse(Console.ReadLine());
                 switch (op)
                 {

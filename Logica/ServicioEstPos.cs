@@ -41,7 +41,6 @@ namespace Logica
             {
                 return false;
             }
-
         }
         public double promedioPosGrado(string name)
         {
